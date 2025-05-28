@@ -24,8 +24,11 @@ Java JDK 8 ou superior instalado.
 IDE recomendada: IntelliJ IDEA, Eclipse ou VS Code com extensão Java.
 
 Baixe o arquivo "Projeto POO.rar"
+
 Abra uma IDE recomendada 
+
 Abra a pasta do arquivo baixado pela IDE 
+
 Compile o codigo
 
 Se estiver usando o VSCode, não esqueça de baixar a estensão JAVA na IDE.
